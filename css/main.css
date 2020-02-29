@@ -2,17 +2,17 @@
 #Intro { position: relative; width:100%; height:100%; line-height: 1.8em; color:#333; overflow-y: auto; }
 #Main { position: relative; width:100%; height:100%; line-height: 1.8em; color:#333; overflow-y: auto;  }
 
-.IntroBg { background: url(../images/Bg_Grey.png) ; width: 100%; height: 100%; }
+.IntroBg { background: url(../images/BG.png) ; width: 100%; height: 100%; }
 .IntroWrap { position: relative; margin-top: 50px; max-height:780px }
-.IntroLogo { background:url(../images/logo/Logo_dark.png) no-repeat; background-size:100% auto; width:200px; max-height: 80px; height: 100%; margin:0 auto; text-indent: -10000px;}
+.IntroLogo { background:url(../images/logo/Logo.png) no-repeat; background-size:100% auto; width:200px; max-height: 80px; height: 100%; margin:0 auto; text-indent: -10000px;}
 .languageWrap { overflow:hidden; padding:4rem 0;}
 .IntroLanguage {  width: 100%; position: relative; padding-left: 6px;}
 .IntroLanguage li { width:25%; display: flex;  box-sizing: border-box; padding-right: 13px; float: left; }
 .IntroLanguage li:last-child { padding:0; width:calc(25% - 13px); }
 .IntroLanguage li a { box-sizing: border-box; height:470px; padding:20px; position: relative; width:100%;}
-.IntroLanguage li a.Lg_Academic { background: #5b5946; }
-.IntroLanguage li a.Lg_Academic:hover,
-.IntroLanguage li a.Lg_Academic:focus { transform: translate(0,0); background:#3e3d2e; transition: all 0.6s ease-in-out 0s } 
+.IntroLanguage li a.Lg_American { background: #059400; }
+.IntroLanguage li a.Lg_American:hover,
+.IntroLanguage li a.Lg_American:focus { transform: translate(0,0); background:#035000; transition: all 0.6s ease-in-out 0s } 
 .IntroLanguage li a.Lg_Naomi { background: #fdbd32;}
 .IntroLanguage li a.Lg_Naomi:hover,
 .IntroLanguage li a.Lg_Naomi:focus { transform: translate(0,0); background:#faaa00; transition: all 0.6s ease-in-out 0s}
