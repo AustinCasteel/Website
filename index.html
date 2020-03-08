@@ -86,7 +86,7 @@
 		}</script>
 	</head>
 
-	<body>
+	<body onmousedown="isKeyPressed(event)">
 		<div id="Intro" class="IntroBg">
 			<div id="Wrapper">
 				<div class="container">
@@ -126,12 +126,30 @@
 										<a href="https://projectnaomi.com" class="Lg_Naomi block">
 											<ul class="textCenter">
 												<li class="bold500 pt2em">Project Naomi</li>
-												<li class="bold500">Pick your destination</li>
+												<li class="bold500">Privacy Based Vocal Assistant</li>
+                                            	<li><strong class="textCenter">ENTER</strong></li>
+											</ul>
+										</a>
+									</li>
+									<li id="fot" style="visibility: hidden;">
+										<a href="https://fot.austincasteel.com" class="Lg_FOT block">
+											<ul class="textCenter">
+												<li class="bold500 pt2em">FOT</li>
+												<li class="bold500">Form of Therapy</li>
                                             	<li><strong class="textCenter">ENTER</strong></li>
 											</ul>
 										</a>
 									</li>
 								</ul>
+								<script>
+									function isKeyPressed(event) {
+  										if (event.ctrlKey && event.shiftKey) {
+    										document.getElementById("fot").style.visibility = "visible";
+  										} else {
+    										document.getElementById("fot").style.visibility = "hidden";
+  										}
+									}
+								</script>
 							</div>
 						</div>
 					</div>
