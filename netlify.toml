@@ -1,6 +1,6 @@
 [build]
-  command = ""
-  publish = ""
+  command = "gatsby build"
+  publish = "public"
 
 [build.environment]
   CI = "true"
