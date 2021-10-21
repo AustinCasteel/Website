@@ -8,7 +8,7 @@
   relocation: true
   company: TechSlayers
   company_url: https://techslayers.com
-  for_hire: false
+  for_hire: true
   focus: Firebird Project Manager
   focus_url: https://github.com/austincasteel
   about: |
@@ -26,6 +26,8 @@
     - VSCode
     - Github
     - GCP
+    - Netlify
+    - Vercel
   budget:
     currency: $
     min: 5
