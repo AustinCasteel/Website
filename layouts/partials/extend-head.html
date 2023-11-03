@@ -1,0 +1,6 @@
+<script id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/ccc9894fb1d4d8e3530306de9/11630d06742e047f41ae9206a.js");</script>
+{{ if isset site.Params.umamiAnalytics "domain" }}
+<script async src="https://{{ site.Params.umamiAnalytics.domain }}/script.js" data-website-id="{{ site.Params.umamiAnalytics.websiteid }}"></script>
+{{ else }}
+<script async src="https://analytics.umami.is/script.js" data-website-id="{{ site.Params.umamiAnalytics.websiteid }}"></script>
+{{ end }}

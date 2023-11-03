@@ -1,0 +1,17 @@
+{
+    "name": "Austin Casteel",
+    "image" : "img/avatar.jpg",
+    "bio": "Internal Tools Engineer & Aerospace Engineering Student",
+    "social": [
+        { "email": "mailto:austin@austincasteel.com" },
+        { "linkedin": "https://linkedin.com/in/austincasteel" },
+        { "github": "https://github.com/austincasteel" },
+        { "gitlab": "https://gitlab.com/austincasteel" },
+        { "keybase": "https://keybase.io/austincasteel" },
+        { "pgpkey": "https://austincasteel.com/pgp.txt" },
+        { "twitter": "https://twitter.com/austinbcasteel" },
+        { "instagram": "https://instagram.com/austincasteel" },
+        { "orcid": "https://orcid.org/0009-0007-2807-633X " },
+        { "researchgate": "https://www.researchgate.net/profile/Austin-Casteel" }
+    ]
+}

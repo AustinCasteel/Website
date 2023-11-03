@@ -1,0 +1,67 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Austin Casteel"
+
+[params]
+  displayName = "🇬🇧"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Product | Austin Casteel"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Austin Casteel"
+  image = "img/avatar.jpg"
+  headline = "Internal Tools Engineer & Aerospace Engineering Student"
+  bio = "Internal Tools Engineer & Aerospace Engineering Student"
+  links = [
+    { email = "mailto:austin@austincasteel.com" },
+    { linkedin = "https://linkedin.com/in/austincasteel" },
+    { github = "https://github.com/austincasteel" },
+    { gitlab = "https://gitlab.com/austincasteel" },
+    { keybase = "https://keybase.io/austincasteel" },
+    { pgpkey = "https://austincasteel.com/pgp.txt" },
+    { twitter = "https://twitter.com/austinbcasteel" },
+    { instagram = "https://instagram.com/austincasteel" },
+    { orcid = "https://orcid.org/0009-0007-2807-633X " },
+    { researchgate = "https://www.researchgate.net/profile/Austin-Casteel" }
+
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { hashnode = "https://username.hashnode.dev" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
+  #   { youtube = "https://youtube.com/username" },
+  ]
