@@ -28,6 +28,8 @@ highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
+mainSections = ["blog", "engprojects", ""]
+
 [header]
 layout = "fixed"
 
@@ -42,7 +44,7 @@ showScrollToTop = true
 layout = "background"
 # homepageImage = "img/background.jpg"
 showRecent = true
-showRecentItems = 5
+showRecentItems = 12
 showMoreLink = true
 showMoreLinkDest = "/blog"
 cardView = true
@@ -130,5 +132,4 @@ cardViewScreenWidth = false
 
 [umamiAnalytics]
   websiteid = "830a6b4f-2a5d-4f5c-bd93-8ecbb36e48a6"
-  domain = "https://cloud.umami.is/script.js"
   enableTrackEvent = true
