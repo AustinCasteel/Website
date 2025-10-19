@@ -40,9 +40,7 @@ The launch day process was pretty seamless. We took group team pictures, watched
 
 {{< carousel images="gallery/*" aspectRatio="3-4" interval="2500" >}}
 
-<video width="480" height="852" controls muted>
-  <source src="gallery1/03.mp4" type="video/mp4">
-</video>
+{{< youtubeLite id="FW-4fdnpYV4" label="VECTOR Liftoff" params="mute=1">}}
 
 ![flight](gallery1/flight.jpg)
 
