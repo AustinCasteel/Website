@@ -29,3 +29,7 @@ With a background in astronautical engineering, I've always been drawn to the co
 But when the laptop closes, you'll likely find me in the kitchen. Cooking is where creativity and experimentation take the lead - often inspired by the same curiosity that powers my work in science and tech. Whether I'm reverse engineering a spacecraft protocol or a signature sauce, I'm always chasing that moment when everything just clicks.
 
 I believe in connecting disciplines, challenging boundaries, and never settling for just one path. This is a place where space, security, and spice all belong.
+
+Credentials:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7266e4ea-c63a-4c2b-9411-4a6ac08ea44d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
