@@ -24,9 +24,9 @@ enableEmoji = true
 [params.author]
 name = "Austin Casteel"
 image = "img/avatar.jpg"
-headline = "Student"
-subtitle = "Cybersecurity, Space Systems, and Culinary Craft - One Mind, Three Passions"
-bio = "I'm a cybersecurity specialist and astronautical engineer with a passion for cooking and creative problem-solving. Whether I'm designing secure systems, advancing space technologies, or experimenting in the kitchen, I bring curiosity, precision, and a love for innovation to everything I do. Bridging tech, space, and flavor - one challenge at a time."
+headline = "Engineer, Student, Researcher"
+subtitle = "Cybersecurity, Artificial Intelligence, and Culinary Craft - One Mind, Three Passions"
+bio = "I'm a cybersecurity specialist, AI engineer and researcher, and passionate home chef driven by curiosity and creative problem-solving. From securing digital systems and exploring intelligent technologies to experimenting in the kitchen, I enjoy understanding complex systems, building new things, and finding better ways to solve problems. Bridging security, intelligence, and flavor - one challenge at a time."
 links = [
     { email = "mailto:austin@austincasteel.com" },
     { linkedin = "https://linkedin.com/in/austincasteel" },
