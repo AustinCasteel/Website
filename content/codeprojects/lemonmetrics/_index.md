@@ -6,7 +6,7 @@ description: "Measure **energy per token** and peak power for [Lemonade](https:/
 summary: "Measure **energy per token** and peak power for [Lemonade](https://github.com/lemonade-sdk/lemonade) local AI servers — across CPUs, iGPUs, and NPUs."
 categories: ["Live", "Service"]
 tags: ["AI"]
-externalUrl: "https://lemonmetrics.ai"
+externalUrl: "https://lemonmetrics.github.io"
 authors:
   - austincasteel
 
@@ -28,7 +28,7 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-## Lemon Metrics
+## LemonMetrics
 
 Measure **energy per token** and peak power for [Lemonade](https://github.com/lemonade-sdk/lemonade) local AI servers — across CPUs, iGPUs, and NPUs.
 
@@ -38,13 +38,13 @@ tokens/s  ← the metric everybody ships
 ```
 
 Lemonade already benchmarks tokens/sec, time-to-first-token, and memory.
-Lemon Metrics wraps that benchmark with a power-sampling layer so you can answer the question that actually matters for laptops: **how much battery does this model burn per token?**
+LemonMetrics wraps that benchmark with a power-sampling layer so you can answer the question that actually matters for laptops: **how much battery does this model burn per token?**
 
-Built as an open-source, MIT-licensed harness. Community members run it on their own machines and submit the results to the public site ([lemonmetrics.ai](https://lemonmetrics.ai)) by opening a pull request on the [lemonmetrics-site](https://github.com/lemonmetrics/lemonmetrics-site) repository.
+Built as an open-source, MIT-licensed harness. Community members run it on their own machines and submit the results to the public site ([lemonmetrics.github.io](https://lemonmetrics.github.io)) by opening a pull request on the [lemonmetrics-site](https://github.com/lemonmetrics/lemonmetrics-site) repository.
 
 ## Why energy
 
-Running a model "fast" is one thing. On a laptop — where the CPU, iGPU, and NPU on a chip like the Ryzen AI 9 all sit a few watts apart — the interesting comparison is **work done per joule**. J/token makes cross-backend comparison honest: an NPU that runs 30% slower but uses half the power is the betterlaptop experience.
+Running a model "fast" is one thing. On a laptop — where the CPU, iGPU, and NPU on a chip like the Ryzen AI 9 all sit a few watts apart — the interesting comparison is **work done per joule**. J/token makes cross-backend comparison honest: an NPU that runs 30% slower but uses half the power is the better laptop experience.
 
 ## What it does
 
