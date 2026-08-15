@@ -48,7 +48,7 @@ For real-world local AI usage, especially on laptops, efficiency matters just as
 - Which model/backend combination gives better work-per-joule?
 - How do CPU, iGPU, and NPU compare when normalized by energy?
 
-LemonMetrics makes those comparisons explicit and reproducible. This is not just useful for laptops, with the rising costs of energy, these are metrics are becoming more important everyday.
+LemonMetrics makes those comparisons explicit and reproducible. This is not just useful for laptops, with the rising costs of energy, these metrics are becoming more important everyday.
 
 ### What it does
 
